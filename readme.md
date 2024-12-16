@@ -1,7 +1,9 @@
-# <p align="center">[Pushkar Niraula](https://github.com/puskarpy)</p>
+# <p align="center" ><a style="color:#712324" href="https://github.com/puskarpy/">Pushkar Niraula</a></p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DF0D74&width=435&lines=Front+End+Developer;Always+Learning" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DF0D74&width=435&lines=Front+End+Developer;Always+Learning" alt="Typing SVG" />
+</a>
 </p>
 
 <!-- Social Media -->
@@ -23,7 +25,7 @@
 
 ## <p align = center>Technologies</p>
 
-<p align = center>
+<p align = center style="display:flex; justify-content:space-between">
   <img src="./images/html-5.png">
   <img src="./images/css-3.png">
   <img src="./images/js.png">
