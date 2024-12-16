@@ -36,5 +36,5 @@
 </p>
 
 <p align = center style=" width:100%; display:flex; justify-content:space-around">
-  <img src="./images/twitter (1).png">
+  <img src="./images/twitter (2).png">
 </p>
