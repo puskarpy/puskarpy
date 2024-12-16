@@ -28,7 +28,7 @@
 
 <!-- Technologies -->
 
-## <p align = center>🚀 Technologies</p>
+# <p align = center>🚀 Technologies</p>
 
 <p align = center style=" width:100%; display:flex; justify-content:space-around">
   <img src="./images/html-5.png">
