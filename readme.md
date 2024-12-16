@@ -20,10 +20,6 @@
 <p>I am a beginner developer with skills in HTML, CSS, and JavaScript, and I enjoy building simple and functional websites. I have experience with React for frontend development and am learning Django and data science to expand my abilities. I’m passionate about solving problems and creating useful, impactful projects. My goal is to craft innovative and impactful digital experiences.</p>
 
 <!-- GitHub Star link -->
-<p align="center">
-  <a href="https://stars.github.com/profiles/denvercoder1/">
-    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2024"/></a>
-</p>
 
 ## <p align = center>Technologies</p>
 
