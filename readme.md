@@ -21,11 +21,11 @@
 
 <p>I am a beginner developer with skills in HTML, CSS, and JavaScript, and I enjoy building simple and functional websites. I have experience with React for frontend development and am learning Django and data science to expand my abilities. I’m passionate about solving problems and creating useful, impactful projects. My goal is to craft innovative and impactful digital experiences.</p>
 
-<!-- GitHub Star link -->
+<!-- Technologies -->
 
 ## <p align = center>Technologies</p>
 
-<p align = center style="display:flex; justify-content:space-between">
+<p align = center style=" width:100%; display:flex; justify-content:space-around">
   <img src="./images/html-5.png">
   <img src="./images/css-3.png">
   <img src="./images/js.png">
@@ -33,4 +33,8 @@
   <img src="./images/python (1).png">
   <img src="./images/django.png">
   <img src="./images/c-.png">
+</p>
+
+<p align = center style=" width:100%; display:flex; justify-content:space-around">
+  <img src="./images/twitter.png">
 </p>
