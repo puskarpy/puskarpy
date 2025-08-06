@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I am a beginner developer with skills in HTML, CSS, and JavaScript, and I enjoy building simple and functional websites. I have experience with React for frontend development and am learning Django and data science to expand my abilities. I’m passionate about solving problems and creating useful, impactful projects. My goal is to craft innovative and impactful digital experiences.
+Frontend developer comfortable with HTML, CSS (Tailwind included), and JavaScript. React is my go-to for building interfaces, and I’m getting my hands dirty with backend basics using Node.js. I work with APIs and have a bit of curiosity about data science. Always learning, sometimes struggling, but mostly making things that work.
 
 ## 🌐 Socials:
 
