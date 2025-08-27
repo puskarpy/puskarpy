@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Pushkar 👋
 
 **Full Stack Developer** • **Open Source Enthusiast** • **Problem Solver**
 
@@ -10,14 +10,13 @@ I'm passionate about building efficient, scalable solutions and contributing to 
 
 ```javascript
 const developer = {
-    name: "Your Name",
+    name: "Pushkar Niraula",
     role: "Full Stack Developer",
-    location: "Your City, Country",
-    languages: ["JavaScript", "Python", "TypeScript", "Go"],
+    languages: ["JavaScript", "Python", "TypeScript", "C", "C++"],
     technologies: {
-        frontend: ["React", "Next.js", "Vue.js", "Tailwind CSS"],
-        backend: ["Node.js", "Express", "Django", "PostgreSQL"],
-        tools: ["Docker", "AWS", "Git", "VS Code"]
+        frontend: ["React", "Next.js", "Tailwind CSS"],
+        backend: ["Node.js", "Express", "Django", "MongoDB"],
+        tools: ["Git", "VS Code"]
     },
     currentFocus: "Building scalable web applications",
     funFact: "I debug with console.log and I'm not ashamed"
@@ -30,7 +29,6 @@ const developer = {
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 **Frontend**  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -40,20 +38,18 @@ const developer = {
 **Backend**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-mongodb-336791?style=flat-square&logo=mongodb&logoColor=white)
 
 **Tools & Platforms**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=puskarpy&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=dark&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=puskarpy&theme=dark&hide_border=true&layout=compact)
 
 </div>
 
@@ -63,8 +59,8 @@ I'm always open to interesting conversations and collaboration opportunities.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:puskarniraula01@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://pushkarniraula.com.np)
 
 ---
 
